@@ -14,4 +14,4 @@ https://ezaiger.github.io/hori-seo/
 * Original code provided by courses.bootcampspot.com
 * Refactored code by EZaiger
 
-![alt text](.\assets\images\ezaiger.github.io_hori-seo_.png "Screenshot of completed webpage")
+![alt text](assets/images/ezaiger.github.io_hori-seo_.png "Screenshot of completed webpage")
